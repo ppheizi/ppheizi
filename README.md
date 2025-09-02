@@ -1,5 +1,8 @@
 ## Hello everyone 👋
 
+My name is Artemii, and I'm studying programming.
+Nice to meet you!
+
 <!--
 **ppheizi/ppheizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
