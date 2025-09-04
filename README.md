@@ -1,9 +1,12 @@
 ## Hello everyone 👋
 
-My name is Artemii Voskoboinik  
-I am 22 years old  
-I am studying programming at Moscow University of Finance and Low and School 21  
-I speak English and Russian, also I am studying Spanish  
+My name is Artemii Voskoboinik.  
+  
+I am 22 years old.  
+  
+I am studying programming at School 21 and the Moscow University of Finance and Law.  
+  
+I speak English and Russian, and I am learning Spanish  
 
 
 
