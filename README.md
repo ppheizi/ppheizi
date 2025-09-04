@@ -1,7 +1,9 @@
 ## Hello everyone 👋
 
-My name is Artemii, and I'm studying programming.
-Nice to meet you!
+My name is Artemii Voskoboinik
+I am 22 years old
+I am studying programming at Moscow University of Finance and Low and School 21
+
 
 <!--
 **ppheizi/ppheizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
