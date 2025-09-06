@@ -1,12 +1,29 @@
-## Hello everyone 👋
+## Hi, I am Artemii Voskoboinik 👋
 
-My name is Artemii Voskoboinik.  
+I study programming at School 21 and the Moscow University of Finance and Law. I am currently working on personal project Snake on C.  
+
+<details>
+<summary>More stuff about me:</summary>
+
+## Overview
+### Git statistics
+![Статистика](https://github-readme-stats.vercel.app/api?username=ppheizi&show_icons=true&theme=radical)  
+I am just starting :)  
   
+![Языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=ppheizi&layout=compact&theme=radical)  
+
+### Stack  
+![C](https://img.shields.io/badge/C-00427E?style=for-the-badge&logo=c&logoColor=white) ![Standard SQL](https://img.shields.io/badge/Standard%20SQL-336791?style=for-the-badge&logo=sql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  
+
+### Job
+Right now I work as Parner Support Manager at Dodo Brands. I spearheaded an internal fraud investigation in partnership with the anti-fraud team. By developing a suspect's behavioral profile, I enabled precise SQL data extraction. My subsequent manual analysis of the dataset identified the responsible employee. Collaborating with the leadership team, we contributed to the termination decision and drove improvements to internal security measures.  
+
+## Personal info
 I am 22 years old.  
-  
-I am studying programming at School 21 and the Moscow University of Finance and Law.  
-  
-I speak English and Russian, and I am learning Spanish  
+I am from Moscow, Russia.
+I speak English and Russian, and I am also learning Spanish 
+
+</details> 
 
 
 
