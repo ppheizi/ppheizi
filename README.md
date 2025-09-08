@@ -21,7 +21,7 @@ Right now I work as Partner Support Manager at Dodo Brands. I spearheaded an int
 ## Personal info
 I am 22 years old.  
 I am from Moscow, Russia.
-I speak English and Russian, and I am also learning Spanish. 
+I speak English and Russian, and I am also learning Spanish.  
 
 </details> 
 
