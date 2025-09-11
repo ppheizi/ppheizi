@@ -1,6 +1,6 @@
 ## Hi, I am Artemii Voskoboinik 👋
 
-I study programming at School 21 and the Moscow University of Finance and Law. Currently working on a personal Snake game project in C.  
+I study programming at School 21 and the Moscow University of Finance and Law. Currently working on a personal Snake game project in C and reading K&R.  
 
 <details>
 <summary>More stuff about me:</summary>
